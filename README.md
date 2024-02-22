@@ -13,4 +13,6 @@
     <img src="https://img.shields.io/badge/grpc-2596BE?style=flat&logo=trpc&logoColor=white"> &nbsp
     <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"> &nbsp
     <img src="https://img.shields.io/badge/debian-A81D33?style=flat&logo=debian&logoColor=white"> &nbsp
+    <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white"> &nbsp
+    <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"> &nbsp
 </div> </br> 
