@@ -1,4 +1,7 @@
-👋 Hi tehere! I'm a <b>backend developer</b> that uses Python and Go🖥 </br>
+<div align="center"> 
+  👋 Hi tehere! I'm a <b>backend developer</b> that uses Python and Go🖥</br>
+  <img src="https://img.shields.io/badge/whwjdgh4186@gmail.com-EA4335?style=flat&logo=gmail&logoColor=yellow"> &nbsp
+</div> </br>
 
 <div align="center"> 
   <h1> 📔 Skills </h1> 
