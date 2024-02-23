@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20CHOJUNGHO96%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180) </br>
+👋 Hi tehere! I'm a <b>backend developer</b> that uses Python and Go🖥 </br>
 
 <div align="center"> 
   <h1> 📔 Skills </h1> 
@@ -15,4 +15,6 @@
     <img src="https://img.shields.io/badge/debian-A81D33?style=flat&logo=debian&logoColor=white"> &nbsp
     <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white"> &nbsp
     <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"> &nbsp
+    <img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white"> &nbsp
+    <img src="https://img.shields.io/badge/rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white"> &nbsp  
 </div> </br> 
